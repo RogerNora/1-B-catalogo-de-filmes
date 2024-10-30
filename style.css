@@ -9,3 +9,8 @@ header{
     color: greenyellow;
     border-bottom: solid 5px green;
 }
+
+section {
+
+    display: flex;
+}
