@@ -26,10 +26,11 @@ section {
 img {
     width: 210px;
     height: 280px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px;
+    
 }
 .fotos {
     display: flex;
     justify-content: center;
+    background-color: black;
 }
