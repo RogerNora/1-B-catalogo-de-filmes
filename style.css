@@ -28,5 +28,8 @@ img {
     height: 280px;
     margin-top: 50px;
     margin-bottom: 50px;
-    align-items: center;
+}
+.fotos {
+    display: flex;
+    justify-content: center;
 }
